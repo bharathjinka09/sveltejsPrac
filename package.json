@@ -1,6 +1,7 @@
 {
   "name": "svelte-app",
   "version": "1.0.0",
+  "homepage": "https://bharathjinka09.github.io/sveltejsPrac",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
